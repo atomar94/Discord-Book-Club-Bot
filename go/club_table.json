@@ -1,0 +1,197 @@
+{
+  "cafe_pool": [
+    {
+      "id": "1112bc4b-9cbb-45ec-ac16-d687902289d2",
+      "name": "Hot Java",
+      "link": ""
+    },
+    {
+      "id": "eed0eb27-7de4-4fbe-9413-1166df500b98",
+      "name": "The Library Coffee Shop",
+      "link": ""
+    },
+    {
+      "id": "f7c623d6-efd2-44e5-ae1c-c1ecbc54bc2e",
+      "name": "Wood Coffee Co.",
+      "link": ""
+    },
+    {
+      "id": "9e1056e9-a3fb-4dc5-b666-46f8a4afdbff",
+      "name": "Black Dog Coffee Company",
+      "link": ""
+    },
+    {
+      "id": "4b28de8f-3b50-47c3-adf8-7cde26314229",
+      "name": "Recreational Coffee",
+      "link": ""
+    },
+    {
+      "id": "cabae9d9-5b74-48e2-9183-39119239b83e",
+      "name": "Cyclops Coffee",
+      "link": ""
+    },
+    {
+      "id": "ff6a75c1-abe5-4a24-b0b0-16b248c1452f",
+      "name": "Chapter II Coffee",
+      "link": ""
+    },
+    {
+      "id": "90ad797a-5ea2-40f5-b682-e038916b639b",
+      "name": "Sheldrake Coffee Roasting",
+      "link": ""
+    },
+    {
+      "id": "2a7aeff8-a7e9-43a9-8b65-4028bb1a5e6e",
+      "name": "Da Vien Coffee",
+      "link": ""
+    }
+  ],
+  "schedule": [
+    {
+      "id": "fd2f82b9-949e-4bde-8167-f35f02d471c1",
+      "date": "December 27, 2025",
+      "link": "",
+      "book_id": "b9",
+      "cafe_id": "2a7aeff8-a7e9-43a9-8b65-4028bb1a5e6e"
+    },
+    {
+      "id": "dc8f8f34-1d66-4688-92ee-331eddd9b2c6",
+      "date": "January 3, 2026",
+      "link": "",
+      "book_id": "b9",
+      "cafe_id": "9e1056e9-a3fb-4dc5-b666-46f8a4afdbff"
+    },
+    {
+      "id": "8030ccc5-7817-4afc-83d1-05821003457e",
+      "date": "January 10, 2026",
+      "link": "",
+      "book_id": "b9",
+      "cafe_id": "90ad797a-5ea2-40f5-b682-e038916b639b"
+    },
+    {
+      "id": "af86cb5f-81ad-4b4a-83f0-02c0eb2c18df",
+      "date": "January 17, 2026",
+      "link": "",
+      "book_id": "b9",
+      "cafe_id": "4b28de8f-3b50-47c3-adf8-7cde26314229"
+    },
+    {
+      "id": "23a905fc-e6f1-4098-9c51-babdc71ac2f2",
+      "date": "January 24, 2026",
+      "link": "",
+      "book_id": "",
+      "cafe_id": "4b28de8f-3b50-47c3-adf8-7cde26314229"
+    },
+    {
+      "id": "f88d7df2-965c-4a76-8a8a-76a658a99780",
+      "date": "January 31, 2026",
+      "link": "",
+      "book_id": "",
+      "cafe_id": "2a7aeff8-a7e9-43a9-8b65-4028bb1a5e6e"
+    },
+    {
+      "id": "ab141c43-90e7-4c89-adae-68b0798e84dc",
+      "date": "February 7, 2026",
+      "link": "",
+      "book_id": "",
+      "cafe_id": "4b28de8f-3b50-47c3-adf8-7cde26314229"
+    },
+    {
+      "id": "824fe3a0-502f-48bd-a777-f21d241609f4",
+      "date": "February 14, 2026",
+      "link": "",
+      "book_id": "",
+      "cafe_id": "f7c623d6-efd2-44e5-ae1c-c1ecbc54bc2e"
+    },
+    {
+      "id": "659f3a30-8f8b-41dc-b648-736d4811feed",
+      "date": "February 21, 2026",
+      "link": "",
+      "book_id": "",
+      "cafe_id": "eed0eb27-7de4-4fbe-9413-1166df500b98"
+    }
+  ],
+  "book_pool": [
+    {
+      "id": "b1",
+      "name": "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 2,
+      "read": false
+    },
+    {
+      "id": "b2",
+      "name": "How Asia Works: Success and Failure in the World's Most Dynamic Region",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b3",
+      "name": "The End of Poverty: Economic Possibilities for Our Time",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b4",
+      "name": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 2,
+      "read": false
+    },
+    {
+      "id": "b5",
+      "name": "A Splendid Exchange: How Trade Shaped the World",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b6",
+      "name": "Mexico: A 500-Year History",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b7",
+      "name": "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b8",
+      "name": "Genghis Khan and the Making of the Modern World",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 0,
+      "read": false
+    },
+    {
+      "id": "b9",
+      "name": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
+      "author": "",
+      "link": "",
+      "description": "No description provided",
+      "votes": 2,
+      "read": true
+    }
+  ]
+}

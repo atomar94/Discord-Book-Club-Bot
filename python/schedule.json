@@ -1,0 +1,143 @@
+{
+    "cafe_pool": [
+        {
+            "name": "Hot Java",
+            "url": "https://maps.app.goo.gl/rJFtCu91hUHsuwHv7"
+        },
+        {
+            "name": "The Library Coffee Shop",
+            "url": "https://maps.app.goo.gl/LK1ysjP9jRTraVVM7"
+        },
+        {
+            "name": "Wood Coffee Co.",
+            "url": "https://maps.app.goo.gl/wtuMjedBnfk8x58i6"
+        },
+        {
+            "name": "Black Dog Coffee Company",
+            "url": "https://maps.app.goo.gl/Ubw2kmMTdro7e5Zm7"
+        },
+        {
+            "name": "Recreational Coffee",
+            "url": "https://maps.app.goo.gl/VpmJhgadSBvoeCEg9"
+        },
+        {
+            "name": "Cyclops Coffee",
+            "url": "https://maps.app.goo.gl/mXv6XobsznxXSZKi8"
+        },
+        {
+            "name": "Chapter II Coffee",
+            "url": "https://maps.app.goo.gl/72GcGpsMGdEvfTHb8"
+        },
+        {
+            "name": "Sheldrake Coffee Roasting",
+            "url": "https://maps.app.goo.gl/MpXYFd257Wceipbf6"
+        },
+        {
+            "name": "Da Vien Coffee",
+            "url": "https://maps.app.goo.gl/R1Cdry5DLPSyntbG9"
+        }
+    ],
+    "schedule": [
+        {
+            "name": "Hot Java",
+            "url": "https://maps.app.goo.gl/rJFtCu91hUHsuwHv7",
+            "book_name": ""
+        },
+        {
+            "name": "The Library Coffee Shop",
+            "url": "https://maps.app.goo.gl/LK1ysjP9jRTraVVM7",
+            "book_name": ""
+        },
+        {
+            "name": "Wood Coffee Co.",
+            "url": "https://maps.app.goo.gl/wtuMjedBnfk8x58i6",
+            "book_name": ""
+        },
+        {
+            "name": "Black Dog Coffee Roasters",
+            "url": "https://maps.app.goo.gl/Ubw2kmMTdro7e5Zm7",
+            "book_name": ""
+        },
+        {
+            "name": "Recreational Coffee",
+            "url": "https://maps.app.goo.gl/VpmJhgadSBvoeCEg9",
+            "book_name": ""
+        },
+        {
+            "name": "Cyclops Coffee",
+            "url": "https://maps.app.goo.gl/mXv6XobsznxXSZKi8",
+            "book_name": ""
+        },
+        {
+            "name": "Chapter II Coffee",
+            "url": "https://maps.app.goo.gl/72GcGpsMGdEvfTHb8",
+            "book_name": ""
+        },
+        {
+            "name": "Sheldrake Coffee Roasting",
+            "url": "https://maps.app.goo.gl/MpXYFd257Wceipbf6",
+            "book_name": ""
+        },
+        {
+            "name": "Da Vien Coffee",
+            "url": "https://maps.app.goo.gl/R1Cdry5DLPSyntbG9",
+            "book_name": ""
+        }
+    ],
+    "book_pool": [
+        {
+            "name": "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 2
+        },
+        {
+            "name": "How Asia Works: Success and Failure in the World's Most Dynamic Region",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "The End of Poverty: Economic Possibilities for Our Time",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 2
+        },
+        {
+            "name": "A Splendid Exchange: How Trade Shaped the World",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "Mexico: A 500-Year History",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "Genghis Khan and the Making of the Modern World",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 0
+        },
+        {
+            "name": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
+            "link": "No link provided",
+            "description": "No description provided",
+            "votes": 2
+        }
+    ]
+}
